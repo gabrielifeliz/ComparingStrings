@@ -1,1 +1,1 @@
-"# Comparing Strings"
+# Comparing Strings
